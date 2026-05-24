@@ -17,5 +17,5 @@ A lightweight, high-performance Python CLI tool designed to statically analyze c
 Clone the repository and ensure you have Python 3.8+ installed. No external dependencies are required for the core analyzer engine.
 
 ```bash
-git clone [https://github.com/yourusername/code-quality-evaluator.git](https://github.com/yourusername/code-quality-evaluator.git)
+git clone [https://github.com/Jatin-Lakhorkar/code-quality-evaluator.git](https://github.com/Jatin-Lakhorkar/code-quality-evaluator.git)
 cd code-quality-evaluator
